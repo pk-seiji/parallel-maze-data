@@ -1,5 +1,8 @@
 # Maze files for parallel-maze repository
 
+Published under the MIT License  
+  
+  
 files are xz compressed in order to be small enough.  
 
 file names with _0 suffix are perfect mazes  
